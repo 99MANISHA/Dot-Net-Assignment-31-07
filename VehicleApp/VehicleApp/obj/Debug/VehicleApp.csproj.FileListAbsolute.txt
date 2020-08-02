@@ -1,0 +1,10 @@
+D:\DotNetConsoleApp\VehicleApp\VehicleApp\bin\Debug\VehicleApp.exe.config
+D:\DotNetConsoleApp\VehicleApp\VehicleApp\bin\Debug\VehicleApp.exe
+D:\DotNetConsoleApp\VehicleApp\VehicleApp\bin\Debug\VehicleApp.pdb
+D:\DotNetConsoleApp\VehicleApp\VehicleApp\bin\Debug\Sample.dll
+D:\DotNetConsoleApp\VehicleApp\VehicleApp\bin\Debug\Sample.pdb
+D:\DotNetConsoleApp\VehicleApp\VehicleApp\obj\Debug\VehicleApp.csprojAssemblyReference.cache
+D:\DotNetConsoleApp\VehicleApp\VehicleApp\obj\Debug\VehicleApp.csproj.CoreCompileInputs.cache
+D:\DotNetConsoleApp\VehicleApp\VehicleApp\obj\Debug\VehicleApp.csproj.CopyComplete
+D:\DotNetConsoleApp\VehicleApp\VehicleApp\obj\Debug\VehicleApp.exe
+D:\DotNetConsoleApp\VehicleApp\VehicleApp\obj\Debug\VehicleApp.pdb
