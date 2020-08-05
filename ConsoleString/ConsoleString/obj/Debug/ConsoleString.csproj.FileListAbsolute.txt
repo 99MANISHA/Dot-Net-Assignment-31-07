@@ -1,0 +1,7 @@
+D:\DotNetConsoleApp\ConsoleString\ConsoleString\bin\Debug\ConsoleString.exe.config
+D:\DotNetConsoleApp\ConsoleString\ConsoleString\bin\Debug\ConsoleString.exe
+D:\DotNetConsoleApp\ConsoleString\ConsoleString\bin\Debug\ConsoleString.pdb
+D:\DotNetConsoleApp\ConsoleString\ConsoleString\obj\Debug\ConsoleString.csprojAssemblyReference.cache
+D:\DotNetConsoleApp\ConsoleString\ConsoleString\obj\Debug\ConsoleString.csproj.CoreCompileInputs.cache
+D:\DotNetConsoleApp\ConsoleString\ConsoleString\obj\Debug\ConsoleString.exe
+D:\DotNetConsoleApp\ConsoleString\ConsoleString\obj\Debug\ConsoleString.pdb

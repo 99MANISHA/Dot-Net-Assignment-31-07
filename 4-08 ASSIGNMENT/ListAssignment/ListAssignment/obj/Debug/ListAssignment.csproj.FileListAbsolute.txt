@@ -1,0 +1,7 @@
+D:\Assignments On Dot Net\ListAssignment\ListAssignment\bin\Debug\ListAssignment.exe.config
+D:\Assignments On Dot Net\ListAssignment\ListAssignment\bin\Debug\ListAssignment.exe
+D:\Assignments On Dot Net\ListAssignment\ListAssignment\bin\Debug\ListAssignment.pdb
+D:\Assignments On Dot Net\ListAssignment\ListAssignment\obj\Debug\ListAssignment.csprojAssemblyReference.cache
+D:\Assignments On Dot Net\ListAssignment\ListAssignment\obj\Debug\ListAssignment.csproj.CoreCompileInputs.cache
+D:\Assignments On Dot Net\ListAssignment\ListAssignment\obj\Debug\ListAssignment.exe
+D:\Assignments On Dot Net\ListAssignment\ListAssignment\obj\Debug\ListAssignment.pdb
